@@ -35,3 +35,5 @@ py -m pip install -r requirements.txt
 ## 設定とログ
 
 設定とログは`%APPDATA%\FileFinder\`に保存されます。登録フォルダーのパスや検索時の情報が設定・ログに含まれることがあります。共有する場合は内容を確認してください。
+
+> **このアプリは Claude（Anthropic 社の AI）によって生成されました。**
