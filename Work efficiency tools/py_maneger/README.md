@@ -27,3 +27,6 @@
 ## 設定
 
 登録内容は`%LOCALAPPDATA%\PythonAppManager\apps.json`、ホットキーなどの設定は同フォルダー内に保存されます。登録したフォルダーのパスが含まれるため、共有前に確認してください。
+
+
+> **このアプリは Claude（Anthropic 社の AI）によって生成されました。**
