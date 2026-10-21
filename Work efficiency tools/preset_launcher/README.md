@@ -41,3 +41,5 @@ py preset_launcher.py --run "プリセット名" --dry-run
 ## 設定
 
 設定は`%APPDATA%\PresetLauncher\presets.json`に保存されます。登録したアプリのパスや引数が含まれるため、設定ファイルを共有する際は内容を確認してください。
+
+> **このアプリは Claude（Anthropic 社の AI）によって生成されました。**
